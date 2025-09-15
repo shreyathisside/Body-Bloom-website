@@ -20,3 +20,4 @@ HTML5: For structuring the content and pages.
 CSS3: For all styling, layout, and visual effects, including custom animations.
 
 JavaScript: A minimal, lightweight script to handle scroll animations and form submission feedback.
+Website Link- https://bodyandbloom.netlify.app/
